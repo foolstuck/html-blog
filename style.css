@@ -53,6 +53,10 @@ h1 {
     line-height: 2; 
 }
 
+h2 {
+    margin-top: 40px;
+}
+
 .dn {
     display: none;
 }
