@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>Home - My Blog</title>
+  <title>Home - My Vanilla Blog</title>
 </head>
 <body>
 
@@ -23,12 +23,14 @@
 <main>
   <h2>Latest Posts</h2>
   <ul>
+    <!-- <li><a href="posts/"></a> - Mar 15, 2024</li>"></a></li> -->
     <li><a href="posts/about-the-current-job.html">About The Current Job</a> - Mar 18, 2024</li>
     <li><a href="posts/thoughts-and-plans.html">Some Thoughts and Plans about this Blog</a> - Mar 15, 2024</li>
     <li><a href="posts/pinterest-affiliate.html">Making Money Online: Pinterest Affiliate</a> - Mar 14, 2024</li>
   </ul>
   <h2>My Projects</h2>
   <ul>
+    <!-- <li><a href="projects/"></a></li> -->
     <li><a href="projects/the-panty-space.html">The Panty Space</a></li>
     <li><a href="projects/affiliate-marketing.html">Affiliate Marketing</a></li>
     <li><a href="projects/new-home.html">New Home</a></li>
@@ -36,7 +38,7 @@
 </main>
 
 <footer>
-  <p>&copy; 2024 My Blog. All rights reserved.</p>
+  <p>&copy; 2024 My Vanilla Blog. All rights reserved.</p>
 </footer>
 
 </body>
