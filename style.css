@@ -1,7 +1,24 @@
+/* Global paddings for different screen sizes. */
+
 body {
     background-color: #f1e5c9;
-    padding: 5% 30% 5% 30%;
     font-family: "Neucha", cursive;
+    padding: 5% 33% 5% 33%;
+}
+@media (max-width: 1300px) {
+    body {
+        padding: 5% 30% 5% 30%;
+    }
+}
+@media (max-width: 1100px) {
+    body {
+        padding: 5% 15% 5% 15%;
+    }
+}
+@media (max-width: 700px) {
+    body {
+        padding: 5%;
+    }
 }
 
 footer {
